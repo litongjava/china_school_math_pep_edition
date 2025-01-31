@@ -1555,7 +1555,7 @@ $F = k \frac{m_1 m_2}{r^2}$
 
 1. 观察: 5<sup>3</sup> - 1 = 24, 7<sup>3</sup> - 1 = 48, 11<sup>3</sup> - 1 = 120, 13<sup>3</sup> - 1 = 168,… 所得的结果都是 24 的倍数，继续试验，你能得到什么猜想？
 
-2. 在数列{a<sub>n</sub>}中，a<sub>1</sub> = 1, a<sub>n+1</sub> = <img src="/images/formula1.png"> (n∈N<sup>\*</sup>)，试猜想这个数列的通项公式。
+2. 在数列{a<sub>n</sub>}中，a<sub>1</sub> = 1, a<sub>n+1</sub> = (n∈N<sup>\*</sup>)，试猜想这个数列的通项公式。
 
 3. 探求凸多面体的面数 F、顶点数 V 和棱数 E 之间的关系。
 
@@ -1570,7 +1570,7 @@ $F = k \frac{m_1 m_2}{r^2}$
 
 4. 对于任意正整数 n，猜想 2<sup>n</sup>-1 与(n+1)<sup>2</sup>的大小关系。
 
-5. 在 △ABC 中，不等式 <img src="/images/formula2.png"> 成立；在四边形 ABCD 中，不等式 <img src="/images/formula3.png"> 成立；在五边形 ABCDE 中，不等式 <img src="/images/formula4.png"> 成立。猜想在 n 边形 A<sub>1</sub>A<sub>2</sub>…A<sub>n</sub>中，有怎样的不等式成立。
+5. 在 △ABC 中，不等式 成立；在四边形 ABCD 中，不等式 成立；在五边形 ABCDE 中，不等式 < 成立。猜想在 n 边形 A<sub>1</sub>A<sub>2</sub>…A<sub>n</sub>中，有怎样的不等式成立。
 
 6. 在等差数列{a<sub>n</sub>}中，若 a<sub>1</sub> = 0，则有
    a<sub>1</sub> + a<sub>2</sub> + … + a<sub>n</sub> = a<sub>1</sub> + a<sub>2</sub> + … + a<sub>m</sub> (n < 19, 且 n ∈ N<sup>\*</sup>)
@@ -1580,7 +1580,7 @@ $F = k \frac{m_1 m_2}{r^2}$
 
 **B 组**
 
-1. 已知数列{a<sub>n</sub>}的前 n 项和为 S<sub>n</sub>，a<sub>n</sub> = <img src="/images/formula5.png">，满足 S<sub>n</sub> + S<sub>n+1</sub> + 2 = a<sub>n</sub> (n ≥ 2)，计算 S<sub>1</sub>，S<sub>2</sub>，S<sub>3</sub>，S<sub>4</sub>，并猜想 S<sub>n</sub>的表达式。
+1. 已知数列{a<sub>n</sub>}的前 n 项和为 S<sub>n</sub>，a<sub>n</sub> = 满足 S<sub>n</sub> + S<sub>n+1</sub> + 2 = a<sub>n</sub> (n ≥ 2)，计算 S<sub>1</sub>，S<sub>2</sub>，S<sub>3</sub>，S<sub>4</sub>，并猜想 S<sub>n</sub>的表达式。
 
 2. 在学习函数时，我们将它与数类比；在学习数列时，我们将它与函数类比。你在学习的过程中还经历过哪些类比活动？
 
@@ -2273,7 +2273,7 @@ $OZ_1 + OZ_2 = (a+c, b+d)$.
 
 这说明两个向量$OZ_1$与$OZ_2$的和就是与复数$(a+c) + (b+d)i$对应的向量。因此，复数的加法可以按照向量的加法来进行(图 3.2-1)，这是复数加法的几何意义。
 
-<img src="/images/3.2-1.png" , alt="图 3.2-1">
+图 3.2-1
 
 ## 思考
 
@@ -2531,8 +2531,6 @@ C -- 类比 --> F[数轴上的向量<br>及其运算];
 69
 
 # 4
-
-<img src="/images/image.png">
 
 ---
 

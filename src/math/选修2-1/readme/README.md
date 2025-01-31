@@ -3536,8 +3536,6 @@ $= \vec{OF} - \vec{OE} + \vec{OH} - \vec{OE}$
 
 如图 3.1-11，已知两个非零向量 $\vec{a}$，$\vec{b}$，在空间任取一点 O，作 $\vec{OA} = \vec{a}$，$\vec{OB} = \vec{b}$，则 ∠AOB 叫做向量 $\vec{a}$，$\vec{b}$ 的夹角，记作 <$\vec{a}$，$\vec{b}$>.
 
-<img src="/images/3.1-11.png">
-
 通常规定，$0 \le \langle \vec{a}, \vec{b} \rangle < \pi$，这样，两个向量的夹角是唯一确定的，且 $\langle \vec{a}, \vec{b} \rangle = \langle \vec{b}, \vec{a} \rangle$.
 
 如果 $\langle \vec{a}, \vec{b} \rangle = \frac{\pi}{2}$，那么向量 $\vec{a}$，$\vec{b}$ 互相垂直，记作 $\vec{a} \perp \vec{b}$.
