@@ -102,6 +102,9 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
 
+    math: {
+      type: "katex", // 或 'mathjax'
+    },
     // uncomment these if you need TeX support
     // math: {
     //   // install katex before enabling it
