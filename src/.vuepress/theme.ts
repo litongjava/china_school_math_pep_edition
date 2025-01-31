@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import { searchPlugin } from "@vuepress/plugin-search";
 
 export default hopeTheme({
   hostname: "https://math.litongjava.com",
@@ -159,6 +160,7 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
+    search: true,
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
